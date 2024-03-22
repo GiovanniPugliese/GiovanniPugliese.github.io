@@ -7,5 +7,19 @@
 }
 
 .silly{
-    background-color:aquamarine
+    color:red
+}
+
+.color{
+    background-color:black;
+}
+
+.billy{
+    color:red;
+}
+
+.milly{
+    border: 3px red solid;
+    
+    background-color: antiquewhite;
 }
